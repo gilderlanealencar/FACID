@@ -1,0 +1,3 @@
+# PROGRAMAÇÃO DE COMPUTADORES
+
+exercícios
